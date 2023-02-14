@@ -1,5 +1,6 @@
-# wiki-list-patterns
+# wiki-list-patterns [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/bennokr/wiki-list-patterns/HEAD)
 BSc project template on information extraction from structured lists
+
 
 **Why**: Many different kinds of documents contain lists: they are a simple way of enumerating several related items, and allow readers to look up and compare items. Often, every item in the list has some kind of structure. For example, here’s a few of Keira Knightley's film roles:
 
